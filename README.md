@@ -1,5 +1,4 @@
 # Weighting-model-ensembles
-[![DOI](https://zenodo.org/badge/235575512.svg)](https://zenodo.org/badge/latestdoi/235575512)
 
 Set of functions and a jupyter notebook, that describe a methodology to weight chemistry-climate model ensembles based upon model performance and independence.
 
